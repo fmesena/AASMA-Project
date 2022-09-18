@@ -1,5 +1,9 @@
 # The Impact of Human Behavior in Emergency Evacuations
 
+## Authors
+This project is the result of joint work with my friends, João Palet and Joana Alves.
+
+## Information about this repository
 This repository contains the project developed in the Autonomous Agents and Multi-Agent Systems course.
 The idea of this project was to model different aspects of individual human characteristics and behaviors in situations of emergency evacuations (for example, when there is a fire), and try to better understand their impact through computer simulations. Some aspects that we have considered were cooperation (is it "better" to communicate to others that there is a fire happening even though I may get prejudiced by it?), the layout of the building (give two layouts, for example, for a supermarket, is one of them better than the other regarding the rate of survivors?), and many others as can be seen in the ```settings.py``` file.
 
